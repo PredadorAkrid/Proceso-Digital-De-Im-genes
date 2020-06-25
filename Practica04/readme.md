@@ -1,6 +1,5 @@
 # Filtros de la práctica 04   
 
-Filtro máximo y mínimo   
-Imágenes recursivas tonos de gris  
-Imágenes recursivas colores reales  
+Agregar marca de agua  
+Quitar marca de agua  
  
